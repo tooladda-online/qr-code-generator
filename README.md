@@ -2,14 +2,14 @@
 
 # 📱 QR Code Generator
 
-### Create custom QR codes for URLs, text & contacts — instantly.
+### Create custom QR codes for URLs, text, contact details, and more—entirely in your browser.
 
 [![Visit QR Code Generator](https://img.shields.io/badge/Visit%20QR%20Code%20Generator-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tooladda.online/qr-code-generator.html)
 [![ToolAdda Home](https://img.shields.io/badge/ToolAdda.online-8b5cf6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIi8+PC9zdmc+)](https://tooladda.online)
 [![Free & Open](https://img.shields.io/badge/100%25-Free-10b981?style=for-the-badge)](https://tooladda.online/qr-code-generator.html)
 [![Category](https://img.shields.io/badge/Image%20Tools-f59e0b?style=for-the-badge)](#)
 
-**Free online QR code generator with custom size, colors, error correction, and instant PNG download. Everything runs locally in your browser.**
+**Use QR Code Generator | ToolAdda with ToolAdda to complete tasks quickly, accurately, and privately in your browser.**
 
 [🚀 **Open QR Code Generator Now →**](https://tooladda.online/qr-code-generator.html)
 
@@ -30,12 +30,11 @@
 
 ## 🎯 Features
 
-- ✅ Generate QR codes for URLs, plain text, email, and contact details
-- ✅ Custom foreground and background colors
-- ✅ Adjustable size from 200px to 600px
-- ✅ Error correction levels L, M, Q, and H
-- ✅ Instant PNG preview and one-click download
-- ✅ 100% browser-based — no uploads, no external API calls
+- ✅ Free QR Code Generator — no signup required
+- ✅ Runs fast in your browser on desktop and mobile
+- ✅ Private by design — built for everyday use on ToolAdda
+- ✅ Part of ToolAdda's Image Tools collection
+- ✅ Modern, clean interface with no clutter
 
 ---
 
@@ -66,30 +65,23 @@ https://tooladda.online/qr-code-generator.html
 ## ❓ FAQ
 
 <details>
-<summary><strong>Is the QR Code Generator free?</strong></summary>
+<summary><strong>Is QR Code Generator free on ToolAdda?</strong></summary>
 
-Yes. Create and download QR codes for free on ToolAdda with no account required.
-
-</details>
-
-<details>
-<summary><strong>Is my data sent to a server?</strong></summary>
-
-No. QR code generation happens entirely in your browser. Your text and URLs never leave your device.
+Yes. QR Code Generator is 100% free to use on ToolAdda with no account required.
 
 </details>
 
 <details>
-<summary><strong>What can I encode in a QR code?</strong></summary>
+<summary><strong>Do I need to install anything?</strong></summary>
 
-URLs, plain text, email addresses, phone numbers, and other contact-style strings supported by standard QR formats.
+No. Open the tool in your browser and start using it instantly.
 
 </details>
 
 <details>
-<summary><strong>Can I customize colors and size?</strong></summary>
+<summary><strong>Where is the live QR Code Generator?</strong></summary>
 
-Yes. Pick foreground and background colors, set the output size, and choose an error correction level before downloading PNG.
+Visit tooladda.online — search for QR Code Generator or use the link in this repository README.
 
 </details>
 
@@ -101,11 +93,8 @@ Yes. Pick foreground and background colors, set the output size, and choose an e
 <p align="center">
   <code>qr code generator</code>&nbsp;
   <code>free qr code generator</code>&nbsp;
-  <code>online qr code maker</code>&nbsp;
-  <code>custom qr code</code>&nbsp;
-  <code>qr code creator</code>&nbsp;
-  <code>generate qr code</code>&nbsp;
-  <code>qr code png download</code>&nbsp;
+  <code>online qr code generator</code>&nbsp;
+  <code>qr code generator tooladda</code>&nbsp;
 </p>
 
 ---
@@ -122,4 +111,4 @@ Made with ❤️ by [ToolAdda.online](https://tooladda.online) · [GitHub Organi
 
 </div>
 
-<!-- SEO: QR Code Generator, qr code generator, free qr code generator, online qr code maker, custom qr code, qr code creator, generate qr code, qr code png download, tooladda, free online tool -->
+<!-- SEO: QR Code Generator, qr code generator, free qr code generator, online qr code generator, qr code generator tooladda, tooladda, free online tool -->
