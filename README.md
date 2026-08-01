@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📱 QR Code Generator
+# 🖼️ QR Code Generator
 
 ### Create custom QR codes for URLs, text, contact details, and more—entirely in your browser.
 
